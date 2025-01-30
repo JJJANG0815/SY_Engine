@@ -1,4 +1,6 @@
-﻿  App.cpp
-  Input.cpp
-  코드를 생성하고 있습니다...
+﻿  GameObject.cpp
+C:\Users\jjjan\OneDrive\바탕 화면\SY_Engine\SY_Engine\SY_SOURCE\GameObject.cpp(39,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jjjan\OneDrive\바탕 화면\SY_Engine\SY_Engine\SY_SOURCE\GameObject.cpp(39,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jjjan\OneDrive\바탕 화면\SY_Engine\SY_Engine\SY_SOURCE\GameObject.cpp(39,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jjjan\OneDrive\바탕 화면\SY_Engine\SY_Engine\SY_SOURCE\GameObject.cpp(39,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   SY_Engine.vcxproj -> C:\Users\jjjan\OneDrive\바탕 화면\SY_Engine\SY_Engine\x64\Debug\SY_Engine.exe

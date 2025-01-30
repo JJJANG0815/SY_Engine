@@ -43,7 +43,7 @@ namespace SY
 
 				}
 
-				mKeys[i].state = eKeyState::Down;
+				mKeys[i].bPressed = true;
 			}
 			else  //키가 안 눌렸다
 			{

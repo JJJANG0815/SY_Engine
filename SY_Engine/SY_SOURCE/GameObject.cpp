@@ -15,19 +15,19 @@ namespace SY
 
 		if (Input::GetKey(ekeyCode::A))
 		{
-			mX -= 0.1f;
+			mX -= 0.01f;
 		}
 		if (Input::GetKey(ekeyCode::D))
 		{
-			mX += 0.1f;
+			mX += 0.01f;
 		}
 		if (Input::GetKey(ekeyCode::W))
 		{
-			mY -= 0.1f;
+			mY -= 0.01f;
 		}
 		if (Input::GetKey(ekeyCode::S))
 		{
-			mY += 0.1f;
+			mY += 0.01f;
 		}
 	}
 	void GameObject::LateUpdate()
