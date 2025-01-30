@@ -1,4 +1,5 @@
 #include "GameObject.h"
+#include"Input.h"
 
 namespace SY
 {
@@ -12,21 +13,21 @@ namespace SY
 	void GameObject::Update()
 	{
 
-		if (GetAsyncKeyState(VK_LEFT) & 0x8000)
+		if (Input::GetKey(ekeyCode::A))
 		{
-			mX -= 0.01f;
+			mX -= 0.1f;
 		}
-		if (GetAsyncKeyState(VK_RIGHT) & 0x8000)
+		if (Input::GetKey(ekeyCode::D))
 		{
-			mX += 0.01f;
+			mX += 0.1f;
 		}
-		if (GetAsyncKeyState(VK_UP) & 0x8000)
+		if (Input::GetKey(ekeyCode::W))
 		{
-			mY -= 0.01f;
+			mY -= 0.1f;
 		}
-		if (GetAsyncKeyState(VK_DOWN) & 0x8000)
+		if (Input::GetKey(ekeyCode::S))
 		{
-			mY += 0.01f;
+			mY += 0.1f;
 		}
 	}
 	void GameObject::LateUpdate()

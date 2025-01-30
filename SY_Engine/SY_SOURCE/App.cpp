@@ -1,4 +1,6 @@
 #include "App.h"
+#include"Input.h"
+
 
 namespace SY
 {
@@ -14,6 +16,8 @@ namespace SY
 		mHwnd = hWnd;
 		mHdc = GetDC(hWnd);
 		mPlayer.SetPosition(0.0f, 0.0f);	
+		Input::Init();
+
 	}
 
 	void App::Run()
@@ -25,8 +29,9 @@ namespace SY
 
 	void App::Update()
 	{
+		Input::Update();
 		mPlayer.Update();
-		
+	
 	}
 	void App::LateUpdate()
 	{
