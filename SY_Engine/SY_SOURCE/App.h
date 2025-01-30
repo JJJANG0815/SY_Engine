@@ -1,7 +1,6 @@
 #pragma once
+#include "GameObject.h"
 
-#include "CommonInclude.h"
- 
 
 namespace SY
 {
@@ -24,9 +23,7 @@ namespace SY
 		HWND mHwnd;
 		HDC mHdc;
 
-		float mSpeed;
+		GameObject mPlayer;
 
-		float mX;
-		float mY;
 	};
 }
