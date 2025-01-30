@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_Engine\\SY_Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|solutionrelative:SY_Engine\\SY_Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\App.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\CommonInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\CommonInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_Engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|solutionrelative:SY_Engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SY_Engine.cpp",
-              "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_Engine\\SY_Engine.cpp",
-              "RelativeDocumentMoniker": "SY_Engine\\SY_Engine.cpp",
-              "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_Engine\\SY_Engine.cpp",
-              "RelativeToolTip": "SY_Engine\\SY_Engine.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "App.cpp",
+              "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.cpp",
+              "RelativeDocumentMoniker": "SY_SOURCE\\App.cpp",
+              "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.cpp*",
+              "RelativeToolTip": "SY_SOURCE\\App.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T05:03:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonInclude.h",
+              "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\CommonInclude.h",
+              "RelativeDocumentMoniker": "SY_SOURCE\\CommonInclude.h",
+              "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\CommonInclude.h",
+              "RelativeToolTip": "SY_SOURCE\\CommonInclude.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T04:53:54.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.h",
+              "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.h",
+              "RelativeDocumentMoniker": "SY_SOURCE\\App.h",
+              "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.h",
+              "RelativeToolTip": "SY_SOURCE\\App.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T04:45:20.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_Engine\\main.cpp",
+              "RelativeDocumentMoniker": "SY_Engine\\main.cpp",
+              "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_Engine\\main.cpp",
+              "RelativeToolTip": "SY_Engine\\main.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvyMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-30T03:29:33.856Z",
               "EditorCaption": ""
