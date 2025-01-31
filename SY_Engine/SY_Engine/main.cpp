@@ -65,10 +65,14 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 {
    hInst = hInstance;
 
-   HWND hWnd = CreateWindowW(L"SY_KEY", L"CUP H", WS_OVERLAPPEDWINDOW,
-      CW_USEDEFAULT, 0, CW_USEDEFAULT, 0, nullptr, nullptr, hInstance, nullptr);
+   const UINT width = 1600;
+   const UINT height = 900; 
 
-   app.Init(hWnd);
+
+   HWND hWnd = CreateWindowW(L"SY_KEY", L"CUP H", WS_OVERLAPPEDWINDOW,
+      CW_USEDEFAULT, 0, width, height, nullptr, nullptr, hInstance, nullptr);
+
+   app.Init(hWnd, width, height);
 
    if (!hWnd)
    {

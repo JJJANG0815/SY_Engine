@@ -10,7 +10,7 @@ namespace SY
 		App();
 		~App();
 
-		void Init(HWND mHwnd);
+		void Init(HWND mHwnd, UINT width, UINT height);
 
 		void Run();
 
@@ -22,6 +22,14 @@ namespace SY
 
 		HWND mHwnd;
 		HDC mHdc;
+
+		HDC mBackHdc;
+		HBITMAP mBackBitmap;
+
+
+
+		UINT mWidth;
+		UINT mHeight;
 
 		GameObject mPlayer;
 

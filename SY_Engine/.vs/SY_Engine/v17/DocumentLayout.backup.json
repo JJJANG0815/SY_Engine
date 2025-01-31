@@ -3,56 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|solutionrelative:SY_SOURCE\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|solutionrelative:SY_SOURCE\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\CommonInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\CommonInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.42.34433\\INCLUDE\\QUEUE||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.42.34433\\INCLUDE\\STOP_TOKEN||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.42.34433\\INCLUDE\\THREAD||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.42.34433\\INCLUDE\\__MSVC_FILEBUF.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\App.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_Engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|solutionrelative:SY_Engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65E6944D-7CDC-4258-88EB-EC9829C1394C}|SY_Engine\\SY_Engine.vcxproj|solutionrelative:SY_SOURCE\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\CommonInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17924568-0AAE-4821-B25B-0A62384217D0}|SY_SOURCE\\SY_SOURCE.vcxitems|solutionrelative:SY_SOURCE\\CommonInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,72 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "queue",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\queue",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\queue",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\queue",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\queue",
-              "ViewState": "AgIAAKQBAAAAAAAAAAAswLgBAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-31T01:29:54.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "stop_token",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\stop_token",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\stop_token",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\stop_token",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\stop_token",
-              "ViewState": "AgIAADEAAAAAAAAAAAAswEUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-31T01:29:51.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "thread",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\thread",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\thread",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\thread",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\thread",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAswIEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-31T01:29:45.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Time.cpp",
-              "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Time.cpp",
-              "RelativeDocumentMoniker": "SY_SOURCE\\Time.cpp",
-              "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Time.cpp",
-              "RelativeToolTip": "SY_SOURCE\\Time.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-30T15:50:32.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Time.h",
-              "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Time.h",
-              "RelativeDocumentMoniker": "SY_SOURCE\\Time.h",
-              "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Time.h",
-              "RelativeToolTip": "SY_SOURCE\\Time.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-30T15:43:47.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GameObject.cpp",
               "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\GameObject.cpp",
               "RelativeDocumentMoniker": "SY_SOURCE\\GameObject.cpp",
@@ -144,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CommonInclude.h",
               "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\CommonInclude.h",
               "RelativeDocumentMoniker": "SY_SOURCE\\CommonInclude.h",
@@ -152,12 +59,11 @@
               "RelativeToolTip": "SY_SOURCE\\CommonInclude.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-30T04:53:54.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T04:53:54.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GameObject.h",
               "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\GameObject.h",
               "RelativeDocumentMoniker": "SY_SOURCE\\GameObject.h",
@@ -170,78 +76,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "__msvc_filebuf.hpp",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\__msvc_filebuf.hpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\__msvc_filebuf.hpp",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\__msvc_filebuf.hpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\__msvc_filebuf.hpp",
-              "ViewState": "AgIAAPICAAAAAAAAAAAswAkDAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-31T01:29:24.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "App.cpp",
               "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.cpp",
               "RelativeDocumentMoniker": "SY_SOURCE\\App.cpp",
               "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.cpp",
               "RelativeToolTip": "SY_SOURCE\\App.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-30T05:03:52.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "App.h",
               "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.h",
               "RelativeDocumentMoniker": "SY_SOURCE\\App.h",
               "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\App.h",
               "RelativeToolTip": "SY_SOURCE\\App.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-30T04:45:20.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_Engine\\main.cpp",
               "RelativeDocumentMoniker": "SY_Engine\\main.cpp",
               "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_Engine\\main.cpp",
               "RelativeToolTip": "SY_Engine\\main.cpp",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAuwF0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-30T03:29:33.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Input.cpp",
-              "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Input.cpp",
-              "RelativeDocumentMoniker": "SY_SOURCE\\Input.cpp",
-              "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Input.cpp",
-              "RelativeToolTip": "SY_SOURCE\\Input.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-30T12:54:09.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Input.h",
-              "DocumentMoniker": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Input.h",
-              "RelativeDocumentMoniker": "SY_SOURCE\\Input.h",
-              "ToolTip": "C:\\Users\\jjjan\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SY_Engine\\SY_Engine\\SY_SOURCE\\Input.h",
-              "RelativeToolTip": "SY_SOURCE\\Input.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-30T12:53:27.655Z"
+              "WhenOpened": "2025-01-30T03:29:33.856Z",
+              "EditorCaption": ""
             }
           ]
         }
