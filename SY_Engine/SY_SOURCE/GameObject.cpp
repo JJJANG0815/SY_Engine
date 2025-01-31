@@ -1,10 +1,11 @@
 #include "GameObject.h"
 #include"Input.h"
+#include"Time.h"
 
 namespace SY
 {
 	GameObject::GameObject()
-		:mX(0.0f), mY(0.0f), mSpeed(0.0f)
+		:mX(0.0f), mY(0.0f), mSpeed(0.0f), mHdc(NULL)	
 	{
 	}
 	GameObject::~GameObject()
@@ -12,22 +13,22 @@ namespace SY
 	}
 	void GameObject::Update()
 	{
-
+		const int speed = 100.0f;	
 		if (Input::GetKey(ekeyCode::A))
 		{
-			mX -= 0.01f;
+			mX -=speed*Time::DeltaTime();
 		}
 		if (Input::GetKey(ekeyCode::D))
 		{
-			mX += 0.01f;
+			mX += speed * Time::DeltaTime();
 		}
 		if (Input::GetKey(ekeyCode::W))
 		{
-			mY -= 0.01f;
+			mY -= speed * Time::DeltaTime();
 		}
 		if (Input::GetKey(ekeyCode::S))
 		{
-			mY += 0.01f;
+			mY += speed * Time::DeltaTime();
 		}
 	}
 	void GameObject::LateUpdate()
